@@ -27,4 +27,4 @@ Implement a portal where users can check current bandwidth stats and usage
 Copyright 2015-2016
 ieatbedrock@gmail.com -->
 
-Modified by Andrew Welch (andrewwelch)
+Modified by andrewwelch
