@@ -26,3 +26,5 @@ Implement a portal where users can check current bandwidth stats and usage
 <!-- Captiveportal created by James Kennewell for use at the We Are Red Panda LAN Events.
 Copyright 2015-2016
 ieatbedrock@gmail.com -->
+
+Modified by andrewwelch
