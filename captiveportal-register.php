@@ -142,7 +142,7 @@ Your registration is processed. You now can login <a href="/">here</a>.
                 </ul>
                 <div class="form-group">
                   <input name="auth_user" type="text" placeholder="Username" class="form-control">
-                <input name="auth_pass" type="text" placeholder="Password" class="form-control" >
+                <input name="auth_pass" type="password" placeholder="Password" class="form-control" >
 				<input type="password" name="password2" placeholder="Confirm Password" id="txt_pwd2" class="form-control" >
 				<input type="text" name="fullname" placeholder="Full Name" id="txt_name" class="form-control">
                 </div>
