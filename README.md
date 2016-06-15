@@ -21,7 +21,7 @@ TO-DO
 * Implement Logout page.
 * Implement a portal where users can check current bandwidth stats and usage.
 * Switch to use a RADIUS server.
-* add sponsor redirect page after login 
+* Add sponsor redirect page after login. 
 
 
 <!-- Captiveportal created by James Kennewell for use at the We Are Red Panda LAN Events.
