@@ -122,24 +122,8 @@ Your registration is processed. You now can login <a href="/">here</a>.
             <form method="post" action="$PORTAL_ACTION$" accept-charset="UTF-8" role="form">
               <fieldset>
                 <!-- Required input boxes for portal page to work. Only required if user authentication is needed. -->
-                <p>You are responsible for the security and appropriate use of We Are Red Panda's Lan Network (hereby WARP's)  resources under your control. Using WARP's resources for the following is strictly prohibited:</p>
-                <ul>
-                  <li>Causing a security breach to either WARP'S or other network resources, including, but not limited to, accessing data, servers, or accounts to which you are not authorized; circumventing user authentication on any device; or sniffing network traffic. </li>
-
-                  <li>Causing a disruption of service to either WARP'S or other network resources, including, but not limited to, ICMP floods, packet spoofing, denial of service, heap or buffer overflows, and forged routing information for malicious purposes.</li>
-
-                  <li>Introducing honeypots, honeynets, or similar technology on WARP'S network.</li>
-
-                  <li>Violating copyright law, including, but not limited to, illegally duplicating or transmitting copyrighted pictures, music, video, and software. </li>
-
-                  <li>Exporting or importing software, technical information, encryption software, or technology in violation of international or regional export control laws.</li>
-
-                  <li>Use of the Internet or WARP's network that violates local laws.</li>
-
-                  <li>Intentionally introducing malicious code, including, but not limited to, viruses, worms, Trojan horses, e-mail bombs, spyware, adware, and keyloggers. </li>
-
-                  <li>Port scanning or security scanning on a production network unless authorized by the WE ARE RED PANDA TEAM..</li>
-                </ul>
+                <h1>WARP Admin Tools - Internet Registration</h1>
+                <p>This form is for the use of WARP Admins to register users for internet access.</p>
                 <div class="form-group">
                   <input name="auth_user" type="text" placeholder="Username" class="form-control">
                 <input name="auth_pass" type="password" placeholder="Password" class="form-control" >
