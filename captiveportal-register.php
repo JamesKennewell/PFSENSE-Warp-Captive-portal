@@ -80,7 +80,7 @@ if ($_POST) {
 <head>
   <meta charset="utf-8">
   <link rel="shortcut icon" href="captiveportal-favicon.ico" />
-  <title>WarpLAN Admin-User-Register</title>
+  <title>WARP LAN Admin Tool - User Registration</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="captiveportal-bootstrap.min.css" rel="stylesheet">
   <style type="text/css">
@@ -116,13 +116,12 @@ Your registration is processed. You now can login <a href="/">here</a>.
       <div class="col-md-6 col-md-offset-3">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Network Access Agreements</h3>
+            <h3 class="panel-title">WARP LAN Admin Tool - User Registration</h3>
           </div>
           <div class="panel-body">
             <form method="post" action="$PORTAL_ACTION$" accept-charset="UTF-8" role="form">
               <fieldset>
                 <!-- Required input boxes for portal page to work. Only required if user authentication is needed. -->
-                <h1>WARP Admin Tools - Internet Registration</h1>
                 <p>This form is for the use of WARP Admins to register users for internet access.</p>
                 <div class="form-group">
                   <input name="auth_user" type="text" placeholder="Username" class="form-control">
